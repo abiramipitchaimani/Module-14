@@ -1,5 +1,4 @@
-# Exp.No:39  
-## DEQUE - INSERTION
+# Exp.No:14 C-DEQUE - INSERTION
 
 ---
 
