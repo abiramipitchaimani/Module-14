@@ -1,5 +1,4 @@
-# Exp.No:38  
-## Deque - DELETION
+# Exp.No:14 D-Deque - DELETION
 
 ---
 
