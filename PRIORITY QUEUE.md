@@ -1,5 +1,4 @@
-# Exp.No:37  
-## PRIORITY QUEUE
+# Exp.No:14 E-PRIORITY QUEUE
 
 ---
 
