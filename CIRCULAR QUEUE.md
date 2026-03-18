@@ -1,5 +1,4 @@
-# Exp No: 36  
-## Circular Queue 
+# Exp No: 14 B- Circular Queue 
 ---
 
 ### AIM  
